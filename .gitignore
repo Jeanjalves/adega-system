@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Banco de dados
+adega.db
+
+# Build PyInstaller
+build/
+dist/
+*.spec
+
+# Sistema
+.DS_Store
+Thumbs.db

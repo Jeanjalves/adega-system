@@ -1,0 +1,91 @@
+/* ===== TEMA MODERNO - ADEGA SYSTEM ===== */
+
+QWidget {
+    background-color: #121212;
+    color: #E0E0E0;
+    font-family: "Segoe UI";
+    font-size: 14px;
+}
+
+/* LABELS */
+QLabel {
+    color: #EAEAEA;
+}
+
+/* BOTÕES */
+QPushButton {
+    background-color: #1F1F1F;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+QPushButton:hover {
+    background-color: #2A2A2A;
+}
+
+QPushButton:pressed {
+    background-color: #0078D7;
+}
+
+/* INPUTS */
+QLineEdit, QDateEdit, QComboBox {
+    background-color: #1E1E1E;
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 6px;
+}
+
+/* TABELAS */
+QTableWidget {
+    background-color: #1E1E1E;
+    gridline-color: #333;
+    border-radius: 6px;
+}
+
+QHeaderView::section {
+    background-color: #2A2A2A;
+    padding: 6px;
+    border: none;
+    font-weight: bold;
+}
+
+QTableWidget::item:selected {
+    background-color: #0078D7;
+}
+
+/* ABAS */
+QTabWidget::pane {
+    border: none;
+}
+
+QTabBar::tab {
+    background-color: #1E1E1E;
+    padding: 8px 14px;
+    margin-right: 2px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+QTabBar::tab:selected {
+    background-color: #0078D7;
+}
+
+QTabBar::tab:hover {
+    background-color: #2A2A2A;
+}
+
+/* SCROLL */
+QScrollBar:vertical {
+    background: #1E1E1E;
+    width: 12px;
+}
+
+QScrollBar::handle:vertical {
+    background: #444;
+    border-radius: 6px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background: #666;
+}
