@@ -13,6 +13,24 @@ Projetado para pequenas e médias adegas, com foco em **rapidez no atendimento**
 - Pesquisa rápida por **nome ou categoria**
 - Controle de estoque em tempo real
 
+## 🖼️ Telas do Sistema
+
+### Login
+![Login](screenshots/login.png)
+
+### Menu Principal
+![Menu](screenshots/menu.png)
+
+### Produtos
+![Produtos](screenshots/produtos.png)
+
+### Caixa (PDV)
+![Caixa](screenshots/caixa.png)
+
+### Relatórios
+![Relatórios](screenshots/relatorios.png)
+
+
 ### 🧾 Caixa (PDV)
 - Busca rápida de produtos
 - Carrinho de compras
