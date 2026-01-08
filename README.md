@@ -135,7 +135,7 @@ Projeto desenvolvido para fins de aprendizado e portfólio.
 
 📄 Licença
 
-Este projeto é de uso educacional e demonstrativo.
+Este projeto é de uso profissional. 
 
 
 ---
