@@ -107,7 +107,6 @@ Sistema Adega
 
 ## 🚀 Como Executar (Modo Desenvolvimento)
 
-```bash
 python main.py
 
 
@@ -119,34 +118,17 @@ O sistema pode ser empacotado como seguevel Windows ( .exe) usando PyInstaller.
 
 Este projeto foi desenvolvido com foco em:
 
-aprendizado prático
-
-resolução de problemas reais
-
 criação de um sistema comercial funcional
 
-composição de portfólio profissional
 
 👨‍💻 Autor
 
 Jean Alves
 Desenvolvedor Python
-Projeto desenvolvido para fins de aprendizado e portfólio.
+
 
 📄 Licença
 
 Este projeto é de uso profissional. 
-
-
----
-
-## ✅ COMO ATUALIZAR NO GITHUB
-
-No VS Code:
-
-```powershell
-git add README.md
-git commit -m "Melhora README com descrição profissional do projeto"
-git push
 
 
